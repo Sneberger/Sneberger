@@ -6,7 +6,7 @@
 ### <div align="center">I am Michael, a Data Privacy and Protection attorney who is currently finishing a masters degree in Computer Science at Arizona State University's Ira A. Fulton School of Engineering, School of Computing and Augmented Intelligence (SCAI): [ASU CS website](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESCSEIAMS/computer-science-cybersecurity-ms)</div>  
   
 
--  👨‍🎓 For the Fall 2023 Semester I am taking CSE 571 Artificial Intelligence and CSE 598 Advanced Data and Information Privacy  
+-  👨‍🎓 For the Fall 2023 Semester I am taking CSE 598 Advanced Data and Information Privacy  
   
 
 - 🌱 I’m currently learning Machine Learning algorithms using Python  
