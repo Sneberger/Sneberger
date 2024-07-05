@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am Michael, a Data Privacy and Protection attorney who is currently finishing a masters degree in Computer Science at Arizona State University's Ira A. Fulton School of Engineering, School of Computing and Augmented Intelligence (SCAI): [ASU CS website](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESCSEIAMS/computer-science-cybersecurity-ms)</div>  
+### <div align="center">I am Michael, a Data Privacy and Protection attorney who has a masters degree in Computer Science at Arizona State University's Ira A. Fulton School of Engineering, School of Computing and Augmented Intelligence (SCAI): [ASU CS website](https://degrees.apps.asu.edu/masters-phd/major/ASU00/ESCSEIAMS/computer-science-cybersecurity-ms)</div>  
   
 
 -  👨‍🎓 My masters degree in Computer Science from Arizona State University was officially awarded June 6, 2024  
